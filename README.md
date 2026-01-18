@@ -1,11 +1,10 @@
-## Angel Joseph 🐱
-**Estudiante de Ing. en Computación 🖥️**
-Facultad de Ingeniería, UNAM ❤️
+## Angel Joseph
+_"Finding beautiful patterns within entropy" 🌀_
 
-- 🐱 **Ambicioso**, siempre apuntando hacia arriba
-- 🧠 **_"Priorizo la razón, pero adoro al corazón"_** 🌹
-- 🤓 Uso lentes: parezco y soy nerd :p
-- ⚡ Soy caótico, en el buen sentido ;) 
+### Yo
+- Priorizo la razón, pero el motor es el corazón 🌹
+- Busco aprender algo valioso cada día
+- Uso lentes, mido 1.88m, soy zurdo
 
 ### Gustos
 - 📻 106.5 FM
@@ -13,22 +12,6 @@ Facultad de Ingeniería, UNAM ❤️
 - 🍿 Películas de animación
 - 📺 Inside Job, RyM, Bojack H.
 - 🛣️ Carreteras 136, 140 y 180D
+- 🐧 ArchLinux
 
-### Yo?
-- 🕴️ Soy zurdo, delgado, mido 1.88m, _(casi no encuentro pantalones de mi talla jaja)_
-- 🐧 Uso ArchLinux + 🪟 Windows 11
-- 🙃 Si leíste hasta acá, escríbeme ;)
-<!--
-**juxdeveloper/juxdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy en insta [@juxdeveloper](https://www.instagram.com/juxdeveloper) :)
