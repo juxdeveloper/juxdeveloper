@@ -1,17 +1,9 @@
 ## Angel Joseph
+IG [@juxdeveloper](https://www.instagram.com/juxdeveloper) :)
+
 _"Finding beautiful patterns within entropy" 🌀_
 
-### Yo
-- Priorizo la razón, pero el motor es el corazón 🌹
-- Busco aprender algo valioso cada día
-- Uso lentes, mido 1.88m, soy zurdo
+Computer engineering student 💻
 
-### Gustos
-- 📻 106.5 FM
-- 🎵 Rock, New Wave, 70s, 80s...
-- 🍿 Películas de animación
-- 📺 Inside Job, RyM, Bojack H.
-- 🛣️ Carreteras 136, 140 y 180D
-- 🐧 ArchLinux
-
-Estoy en insta [@juxdeveloper](https://www.instagram.com/juxdeveloper) :)
+- Creator of https://chronos-juxdeveloper.pages.dev/ site, a scheduler optimizeer for the FI UNAM
+- Full stack developer
